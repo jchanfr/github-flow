@@ -2,6 +2,7 @@
 
 import string
 import random
+import requests
 
 class Game:
     def __init__(self):
