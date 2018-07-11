@@ -1,0 +1,191 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"first_name"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pytho",
+				"Set Syntax: MagicPython"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/users/Digi01/code/jchanfr/github-flow/.travis.yml",
+		"/C/Users/Digi01/code/jchanfr/github-flow/tests/.travis.yml",
+		"/C/users/Digi01/code/jchanfr/github-flow/tests/test_game.py",
+		"/C/users/Digi01/code/jchanfr/github-flow/game.py",
+		"/C/users/Digi01/code/lewagon/reboot-python/01-OOP/game.py",
+		"/C/users/Digi01/code/jchanfr/github-flow/index.html",
+		"/C/Users/Digi01/code/lewagon/reboot-python/01-OOP/08-Classes/README.md",
+		"/C/Users/Digi01/code/lewagon/reboot-python/01-OOP/08-Classes/vehicle.py",
+		"/C/Users/Digi01/code/lewagon/reboot-python/01-OOP/05-String-Manipulation/string_methods.py",
+		"/C/Users/Digi01/code/lewagon/reboot-python/01-OOP/04-Debugging/hello.py",
+		"/C/Users/Digi01/code/lewagon/reboot-python/01-OOP/04-Debugging/README.md",
+		"/C/Users/Digi01/code/lewagon/reboot-python/01-OOP/03-Environment/flask_option.py",
+		"/C/Users/Digi01/code/lewagon/reboot-python/01-OOP/01-Sum-Of-Three/sum_of_three.py",
+		"/C/Users/Digi01/code/lewagon/reboot-python/01-OOP/02-System-Parameters/args.py",
+		"/C/Users/Digi01/code/lewagon/reboot-python/01-OOP/02-System-Parameters/calc.py",
+		"/C/Users/Digi01/code/lewagon/reboot-python/Pipfile"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
